@@ -1,0 +1,130 @@
+[{"codigo":"4","nombre":"ALIANSA","tipo":"EPS"}
+,{"codigo":"122","nombre":"SOCIEDAD ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTIAS P","tipo":"EPS"}
+,{"codigo":"64","nombre":"E.P.S. DE CALDAS S.A.","tipo":"EPS"}
+,{"codigo":"83","nombre":"FONDO DE SOLIDARIDAD PENSIONAL","tipo":"EPS"}
+,{"codigo":"21","nombre":"BBVA HORIZONTES SOCIEDAD ADMINISTRADORA DE FONDOS DE PENSION","tipo":"EPS"}
+,{"codigo":"124","nombre":"SSS SALUD COLOMBIA EOS","tipo":"EPS"}
+,{"codigo":"53","nombre":"COMPENSAR E.P.S.","tipo":"EPS"}
+,{"codigo":"36","nombre":"CALISALUD E.P.S.","tipo":"EPS"}
+,{"codigo":"59","nombre":"COOPERATIVA DE SALUD Y DESARROLLO INTEGRAL DE LA ZONA SUR OR","tipo":"EPS"}
+,{"codigo":"103","nombre":"POLICIA NACIONAL","tipo":"EPS"}
+,{"codigo":"101","nombre":"NUEVA E.P.S.","tipo":"EPS"}
+,{"codigo":"74","nombre":"ENTIDAD PROMOTORA DE SALUD; PIJAOSALUD EPSI","tipo":"EPS"}
+,{"codigo":"68","nombre":"ECOPETROL","tipo":"EPS"}
+,{"codigo":"126","nombre":"TAYRONA EPS INDIGENA","tipo":"EPS"}
+,{"codigo":"128","nombre":"UNION TEMPORAL COMFAMILIARES EN SALUD U.T. (COMFAMILIAR CART","tipo":"EPS"}
+,{"codigo":"5","nombre":"ANAS WAYUU EPS INDIGENA","tipo":"EPS"}
+,{"codigo":"92","nombre":"INSTITUTO SEGUROS SOCIALES I.S.S PENSIONES","tipo":"EPS"}
+,{"codigo":"39","nombre":"CIA DE SEGUROS BOLIVAR S.A.","tipo":"EPS"}
+,{"codigo":"106","nombre":"ROYAL &AMP; SUN ALLIANCE SEGUROS (COLOMBIA) S.A.","tipo":"EPS"}
+,{"codigo":"16","nombre":"ASOCIACION MUTUAL LA SUIZA DE AMERICA EPS INDIGENA","tipo":"EPS"}
+,{"codigo":"81","nombre":"FONDO DE PRESTACIONES SOCIALES DEL MAGISTERIO","tipo":"EPS"}
+,{"codigo":"8","nombre":"ASEGURADORA DE VIDA COLSEGUROS","tipo":"EPS"}
+,{"codigo":"110","nombre":"SEGUREXPO DE COLOMBIA S.A. ASEGURADORA DE CREDITO Y DEL COME","tipo":"EPS"}
+,{"codigo":"71","nombre":"EMPRESA DE TELEFONOS DE BOGOTA - ETB","tipo":"EPS"}
+,{"codigo":"118","nombre":"SELVASALUD S.A. E.PS.","tipo":"EPS"}
+,{"codigo":"1","nombre":"ABN AMRO SEGUROS (COLOMBIA) S.A.","tipo":"EPS"}
+,{"codigo":"20","nombre":"BAVARIA","tipo":"EPS"}
+,{"codigo":"57","nombre":"COOMEVA E.P.S. S.A.","tipo":"EPS"}
+,{"codigo":"34","nombre":"CAJA SALUD ARS UNION TEMPORAL","tipo":"EPS"}
+,{"codigo":"18","nombre":"BANCO DE LA REPUBLICA","tipo":"EPS"}
+,{"codigo":"78","nombre":"FERROCARRILES NACIONALES","tipo":"EPS"}
+,{"codigo":"111","nombre":"SEGUROS ALFA S.A.","tipo":"EPS"}
+,{"codigo":"17","nombre":"AVIANCA","tipo":"EPS"}
+,{"codigo":"120","nombre":"SKANDIA ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTIAS S.","tipo":"EPS"}
+,{"codigo":"26","nombre":"CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO","tipo":"EPS"}
+,{"codigo":"75","nombre":"EPS PROGR. COMFENALCO ANTIOQUIA","tipo":"EPS"}
+,{"codigo":"80","nombre":"FONDO DE PRESTACIONES SOCIALES DEL CONGRESO DE LA REPUBLICA","tipo":"EPS"}
+,{"codigo":"109","nombre":"SALUD VIDA S.A. E.P.S.","tipo":"EPS"}
+,{"codigo":"10","nombre":"ASOCIACION DE CABILDOS DEL RESGUARDO INDIGENA SINU DE SAN AN","tipo":"EPS"}
+,{"codigo":"100","nombre":"MUTUAL SER E.S.S.","tipo":"EPS"}
+,{"codigo":"91","nombre":"INSTITUTO DE SEGUROS SOCIALES I.S.S RIESGOS PROFESIONALES","tipo":"EPS"}
+,{"codigo":"41","nombre":"COMFENALCO VALLE E.P.S.","tipo":"EPS"}
+,{"codigo":"77","nombre":"EPS SERVICIO OCCIDENTAL DE SALUD S.A. - EPS-S.O.S. S.A","tipo":"EPS"}
+,{"codigo":"56","nombre":"CONVIDA","tipo":"EPS"}
+,{"codigo":"127","nombre":"UNIMEC E.P.S. S.A.","tipo":"EPS"}
+,{"codigo":"30","nombre":"CAJA DE COMPENSACION FAMILIAR DEL NORTE DE SANTANDER COMFANO","tipo":"EPS"}
+,{"codigo":"88","nombre":"HUMANA VIVIR S.A. E.P.S.","tipo":"EPS"}
+,{"codigo":"55","nombre":"CONVENIO COMFAMA-COMFAMILIAR CAMACOL- UNION TEMPORAL)","tipo":"EPS"}
+,{"codigo":"97","nombre":"LIBERTY SEGUROS S.A.","tipo":"EPS"}
+,{"codigo":"7","nombre":"ASEGURADORA COLSEGUROS S. A.","tipo":"EPS"}
+,{"codigo":"32","nombre":"CAJA DE PREVISION SOCIAL LOS TRABAJADORES DE LA UNIVERSIDAD","tipo":"EPS"}
+,{"codigo":"2","nombre":"ACE SEGUROS S.A. (ANTES: CIGNA SEGUROS DE COLOMBIA S.A.)","tipo":"EPS"}
+,{"codigo":"89","nombre":"INPEC","tipo":"EPS"}
+,{"codigo":"85","nombre":"FONDOS DE PENSIONES Y CESANTIAS SANTANDER S.A.","tipo":"EPS"}
+,{"codigo":"63","nombre":"E.P.S. CONDOR S.A.","tipo":"EPS"}
+,{"codigo":"40","nombre":"COLSEGUROS E.P.S.","tipo":"EPS"}
+,{"codigo":"93","nombre":"LA EQUIDAD SEGUROS DE VIDA ORGANISMOS COOPERATIVO - LA EQUID","tipo":"EPS"}
+,{"codigo":"102","nombre":"PENSIONES DE ANTIOQUIA","tipo":"EPS"}
+,{"codigo":"86","nombre":"FUERZAS MILITARES","tipo":"EPS"}
+,{"codigo":"108","nombre":"SALUD TOTAL E.P.S.","tipo":"EPS"}
+,{"codigo":"69","nombre":"EMMANUEL EPS INDIGENA","tipo":"EPS"}
+,{"codigo":"65","nombre":"E.P.S. FAMISANAR LTDA.","tipo":"EPS"}
+,{"codigo":"13","nombre":"ASOCIACION MUTUAL BARRIOS UNIDOS DE QUIBDO E.S.S.","tipo":"EPS"}
+,{"codigo":"114","nombre":"SEGUROS DE VIDA ALFA S.A.","tipo":"EPS"}
+,{"codigo":"116","nombre":"SEGUROS DE VIDA DEL ESTADO S.A","tipo":"EPS"}
+,{"codigo":"66","nombre":"E.P.S. SALUDCOOP","tipo":"EPS"}
+,{"codigo":"90","nombre":"INSTITUTO DE SEGUROS SOCIALES EPS","tipo":"EPS"}
+,{"codigo":"22","nombre":"BBVA SEGUROS DE VIDA COLOMBIA S.A","tipo":"EPS"}
+,{"codigo":"25","nombre":"CAFESALUD E.P.S. S.A.","tipo":"EPS"}
+,{"codigo":"73","nombre":"ENTIDAD PROMOTORA DE SALUD MALLAMAS EPSI","tipo":"EPS"}
+,{"codigo":"113","nombre":"SEGUROS COMERCIALES BOLIVAR S.A.","tipo":"EPS"}
+,{"codigo":"61","nombre":"CRUZ BLANCA EPS S.A.","tipo":"EPS"}
+,{"codigo":"47","nombre":"COLMENA","tipo":"EPS"}
+,{"codigo":"6","nombre":"ARP POSITIVA","tipo":"EPS"}
+,{"codigo":"98","nombre":"MAPFRE SEGUROS GENERALES DE COLOMBIA S.A.","tipo":"EPS"}
+,{"codigo":"72","nombre":"EMPRESA MUTUAL PARA EL DESARROLLO INTEGRAL DE LA SALUD E.S.S","tipo":"EPS"}
+,{"codigo":"87","nombre":"GENERALI COLOMBIA-SEGUROS GENERALES S.A","tipo":"EPS"}
+,{"codigo":"35","nombre":"CAJANAL EPS","tipo":"EPS"}
+,{"codigo":"33","nombre":"CAJA NACIONAL DE PREVISION CAJANAL","tipo":"EPS"}
+,{"codigo":"115","nombre":"SEGUROS DE VIDA COLPATRIA S.A.","tipo":"EPS"}
+,{"codigo":"27","nombre":"CAJA DE AUXILIOS Y PRESTACIONES DE LA ASOCIACION COLOMBIANA","tipo":"EPS"}
+,{"codigo":"37","nombre":"CAPRESOCA EPS","tipo":"EPS"}
+,{"codigo":"3","nombre":"ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTIAS S.A.","tipo":"EPS"}
+,{"codigo":"112","nombre":"SEGUROS COLPATRIA S.A.","tipo":"EPS"}
+,{"codigo":"82","nombre":"FONDO DE PREVISION SOCIAL DEL CONGRSO DE LA REPUBLICA FONPRE","tipo":"EPS"}
+,{"codigo":"28","nombre":"CAJA DE COMPENSACION FAMILIAR COMFENALCO ANTIOQUIA","tipo":"EPS"}
+,{"codigo":"125","nombre":"SUSALUD EPS","tipo":"EPS"}
+,{"codigo":"119","nombre":"SERVICIO NACIONAL DE APRENDIZAJE - SENA","tipo":"EPS"}
+,{"codigo":"9","nombre":"ASEGURADORA EL LIBERTADOR; S.A.","tipo":"EPS"}
+,{"codigo":"96","nombre":"LIBERTY SEGUROS DE VIDA","tipo":"EPS"}
+,{"codigo":"129","nombre":"UNION TEMPORAL. ARS COMFENALCO (QUINDIO; SANTANDER)","tipo":"EPS"}
+,{"codigo":"11","nombre":"ASOCIACION DE CABILDOS INDIGENAS DEL CESAR DUSAKAWI EPSI","tipo":"EPS"}
+,{"codigo":"15","nombre":"ASOCIACION MUTUAL LA ESPERANZA ASMET SALUD ESS","tipo":"EPS"}
+,{"codigo":"62","nombre":"DIRECCION TERRITORIAL DE SALUD DE CALDAS","tipo":"EPS"}
+,{"codigo":"130","nombre":"UNISALUD","tipo":"EPS"}
+,{"codigo":"84","nombre":"FONDO DE SOLIDARIDAD Y GARANTIA - MINISTERIO DE SALUD","tipo":"EPS"}
+,{"codigo":"117","nombre":"SEGUROS DEL ESTADO S.A.","tipo":"EPS"}
+,{"codigo":"107","nombre":"SALUD COLPATRIA E.P.S.","tipo":"EPS"}
+,{"codigo":"67","nombre":"E.P.S. SANITAS S.A.","tipo":"EPS"}
+,{"codigo":"121","nombre":"SKANDIA ALTERNATIVA","tipo":"EPS"}
+,{"codigo":"79","nombre":"FONDO DE PENSIONES DE LOS YA PENSIONES","tipo":"EPS"}
+,{"codigo":"104","nombre":"REDSALUD ATENCION HUMANA EPS S.A.","tipo":"EPS"}
+,{"codigo":"29","nombre":"CAJA DE COMPENSACION FAMILIAR DE CALDAS CONFAMILIARES","tipo":"EPS"}
+,{"codigo":"48","nombre":"CREDISEGUR","tipo":"EPS"}
+,{"codigo":"76","nombre":"EPS RISARALDA LTDA. EN LIQUIDACIÓN.","tipo":"EPS"}
+,{"codigo":"123","nombre":"SOCIEDAD SOLIDARIA DE SALUD “SOLSALUD E.P.S S.A.”","tipo":"EPS"}
+,{"codigo":"43","nombre":"COMPAÑÍA AGRICOLA DE SEGUROS S.A.","tipo":"EPS"}
+,{"codigo":"23","nombre":"BBVA SEGUROS GANADERO COMPAÑÍA DE SEGUROS S.A.","tipo":"EPS"}
+,{"codigo":"105","nombre":"RIESGOS PROFESIONALES COLMENA S.A COMPAÑIA DE SEGUROS DE VID","tipo":"EPS"}
+,{"codigo":"58","nombre":"COOPERATIVA DE SALUD COMUNITARIA DE GARCIA ROVIRA “COOPSAGAR","tipo":"EPS"}
+,{"codigo":"31","nombre":"CAJA DE PREVISION SOCIAL DE COMUNCIACIONES “CAPRECOM E.P.S.”","tipo":"EPS"}
+,{"codigo":"12","nombre":"ASOCIACION INDIGENA DEL CAUCA “AIC”","tipo":"EPS"}
+,{"codigo":"99","nombre":"METROPOLITANA DE SALUD EPS EN LIQUIDACIÓN","tipo":"EPS"}
+,{"codigo":"38","nombre":"CHUBB DE COLOMBIA COMPAÑÍA DE SEGUROS S.A.","tipo":"EPS"}
+,{"codigo":"45","nombre":"COMPAÑIA CENTRAL DE SEGUROS DE VIDA S.A.","tipo":"EPS"}
+,{"codigo":"14","nombre":"ASOCIACION MUTUAL EMPRESA SOLIDARIA DE SALUD DE NARIÑO E.S.S","tipo":"EPS"}
+,{"codigo":"95","nombre":"LA PREVISORA S.A. COMPAÑÍA DE SEGUROS","tipo":"EPS"}
+,{"codigo":"94","nombre":"LA INTERAMERICANA COMPAÑÍA DE SEGUROS GENERALES S.A.","tipo":"EPS"}
+,{"codigo":"60","nombre":"CORPORANONIMAS EN LIQUIDACIÓN","tipo":"EPS"}
+,{"codigo":"51","nombre":"COMPAÑIA SURAMERICANA ADMINISTRADORA DE RIESGOS PROFESIONALE","tipo":"EPS"}
+,{"codigo":"54","nombre":"CONDOR S.A. COMPAÑÍA DE SEGUROS GENERALES","tipo":"EPS"}
+,{"codigo":"49","nombre":"COMPAÑIA DE SEGUROS DE VIDA AURORA","tipo":"EPS"}
+,{"codigo":"19","nombre":"BARRANQUILLA SANA E.P.S. EN LIQUIDACIÓN","tipo":"EPS"}
+,{"codigo":"44","nombre":"COMPAÑÍA ASEGURADORA DE FIANZAS S.A.; CONFIANZA (VER NOVEDAD","tipo":"EPS"}
+,{"codigo":"46","nombre":"COMPAÑIA COLOMBIANA ADMINISTRADORA DE FONDOS DE PENSIONES Y","tipo":"EPS"}
+,{"codigo":"50","nombre":"COMPAÑÍA MUNDIAL DE SEGUROS S.A.","tipo":"EPS"}
+,{"codigo":"52","nombre":"COMPAÑÍA SURAMERICANA DE SEGUROS S.A.","tipo":"EPS"}
+,{"codigo":"70","nombre":"EMPRESA COOPERATIVA SOLIDARIA DE SALUD “ECOOPSOS”","tipo":"EPS"}
+,{"codigo":"24","nombre":"BONSALUD EN LIQUIDACIÓN","tipo":"EPS"}
+,{"codigo":"42","nombre":"COMPAÑIA AGRICOLA DE SEGUROS DE VIDA S.A.","tipo":"EPS"}]
